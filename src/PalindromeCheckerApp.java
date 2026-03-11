@@ -6,7 +6,7 @@ public class PalindromeCheckerApp {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("===== UC10: Case-Insensitive & Space-Ignored Palindrome Checker =====");
+        System.out.println("===== UC10:  =====");
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
 
